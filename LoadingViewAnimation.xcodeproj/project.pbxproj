@@ -22,6 +22,7 @@
 		B1837A801C5C735F000E5BE7 /* loading_shadow@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B1837A781C5C735F000E5BE7 /* loading_shadow@3x.png */; settings = {ASSET_TAGS = (); }; };
 		B1837A811C5C735F000E5BE7 /* loading_square@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B1837A791C5C735F000E5BE7 /* loading_square@3x.png */; settings = {ASSET_TAGS = (); }; };
 		B1837A821C5C735F000E5BE7 /* loading_triangle@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B1837A7A1C5C735F000E5BE7 /* loading_triangle@3x.png */; settings = {ASSET_TAGS = (); }; };
+		B1837A841C5C826B000E5BE7 /* loading.gif in Resources */ = {isa = PBXBuildFile; fileRef = B1837A831C5C826B000E5BE7 /* loading.gif */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		B1837A781C5C735F000E5BE7 /* loading_shadow@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "loading_shadow@3x.png"; sourceTree = "<group>"; };
 		B1837A791C5C735F000E5BE7 /* loading_square@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "loading_square@3x.png"; sourceTree = "<group>"; };
 		B1837A7A1C5C735F000E5BE7 /* loading_triangle@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "loading_triangle@3x.png"; sourceTree = "<group>"; };
+		B1837A831C5C826B000E5BE7 /* loading.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = loading.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 		B1837A4C1C5C72DF000E5BE7 = {
 			isa = PBXGroup;
 			children = (
+				B1837A831C5C826B000E5BE7 /* loading.gif */,
 				B1837A571C5C72DF000E5BE7 /* LoadingViewAnimation */,
 				B1837A561C5C72DF000E5BE7 /* Products */,
 			);
@@ -182,6 +185,7 @@
 				B1837A7E1C5C735F000E5BE7 /* loading_shadow@2x.png in Resources */,
 				B1837A651C5C72DF000E5BE7 /* Assets.xcassets in Resources */,
 				B1837A631C5C72DF000E5BE7 /* Main.storyboard in Resources */,
+				B1837A841C5C826B000E5BE7 /* loading.gif in Resources */,
 				B1837A821C5C735F000E5BE7 /* loading_triangle@3x.png in Resources */,
 				B1837A801C5C735F000E5BE7 /* loading_shadow@3x.png in Resources */,
 			);
@@ -344,6 +348,7 @@
 				B1837A6E1C5C72DF000E5BE7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
