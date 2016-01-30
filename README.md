@@ -3,4 +3,4 @@
 
 效果如下
 
-![image](https://raw.githubusercontent.com/wangzidaren/LoadingViewAnimation/branch/loading.gif)
+![image](https://raw.githubusercontent.com/wangzidaren/LoadingViewAnimation/master/loading.gif)
